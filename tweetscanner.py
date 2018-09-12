@@ -12,7 +12,7 @@ import json
 #accessSecret="Enter your access secret"
 
 #access twitter credentials from external file
-import twitter-credentials.py
+import twicred
 
 
 #verifying credentials
