@@ -6,10 +6,14 @@ import tweepy as twi
 import json 
 
 #Twitter Credentials
-consumerKey="Enter your consumer key"
-consumerSecret="Enter your consumer secret"
-accessKey="Enter your access keys"
-accessSecret="Enter your access secret"
+#consumerKey="Enter your consumer key"
+#consumerSecret="Enter your consumer secret"
+#accessKey="Enter your access keys"
+#accessSecret="Enter your access secret"
+
+#access twitter credentials from external file
+import twitter-credentials.py
+
 
 #verifying credentials
 print(twi.Api.VerifyCredentials())
