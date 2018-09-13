@@ -44,3 +44,13 @@ while len(tweets)>0:
 	if len(tweets)>20:
 		break
 	print("..%s tweets downloaded so far" %len(tweets))
+
+#write tweets to JSON
+file=open('tweets.json', 'w')
+print("File being exported to JSON")
+for status in tweets:
+	json.dump(status._json, file, sort_keys=True, indent=4)
+
+#close file
+print("Done")
+file.close()
