@@ -55,5 +55,5 @@ for status in tweets:
 print("Done")
 file.close()
 
-if __name__='__main__':
+if __name__=='__main__':
 		get_all_tweets("@BU_Tweets")
