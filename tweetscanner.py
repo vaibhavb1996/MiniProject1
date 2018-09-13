@@ -14,7 +14,7 @@ import json
 #access twitter credentials from external file
 import twicred
 
-def get_all_tweets(screen_name)
+def get_all_tweets(screen_name):
 	#verifying credentials
 	auth=tweepy.OAuthHandler(twicred.consumerKey,twicred.consumerSecret)
 	auth.set_access_token(twicred.accessKey,twicred.accessSecret)
