@@ -26,5 +26,21 @@ tweets=[]
 #initial request for new tweets
 newTweets=api.user_timeline(screen_name=screen_name,count=10)
 
-#save new tweets
-tweets.extent(newTweets)
+#save one tweet
+tweets.extend(newTweets)
+
+#oldest tweet Id
+oldest=tweets[-1].id-1
+
+#adding more tweets
+while len(tweets)>0:
+	#subsequent tweets use oldest's id to avoid duplicacy
+	newTweets=api.user_timeline(screen_name=screen_name,count=10,max_id=oldest)
+	#add more tweets
+	tweets.extend(newTweets)
+	#update oldest's id
+	oldest=tweets[-1].id-1
+	#break condition
+	if len(tweets)>20:
+		break
+	print("..%s tweets downloaded so far" %len(tweets))
