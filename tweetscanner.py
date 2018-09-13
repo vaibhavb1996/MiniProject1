@@ -20,3 +20,11 @@ auth=tweepy.OAuthHandler(twicred.consumerKey,twicred.consumerSecret)
 auth.set_access_token(twicred.accessKey,twicred.accessSecret)
 api=tweepy.API(auth)
 
+#grab tweets
+tweets=[]
+
+#initial request for new tweets
+newTweets=api.user_timeline(screen_name=screen_name,count=10)
+
+#save new tweets
+tweets.extent(newTweets)
