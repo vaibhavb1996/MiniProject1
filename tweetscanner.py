@@ -2,7 +2,7 @@
 #author: Vaibhav Bansal
 
 #importing twitter and json modules
-import tweepy as twi
+import tweepy 
 import json 
 
 #Twitter Credentials
@@ -16,5 +16,7 @@ import twicred
 
 
 #verifying credentials
-print(twi.Api.VerifyCredentials())
+auth=tweepy.OAuthHandler(twicred.consumerKey,twicred.consumerSecret)
+auth.set_access_token(twicred.accessKey,twicred.accessSecret)
+api=tweepy.API(auth)
 
