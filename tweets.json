@@ -1,0 +1,4039 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 13 20:07:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1040331029603647488",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/hLqEbNA2Ql"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 1040331029603647488,
+    "id_str": "1040331029603647488",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "This week's weekender guide has picks for a local food festival, tips on where to pick up vintage athletic apparel\u2026 https://t.co/hLqEbNA2Ql",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 13 13:22:34 +0000 2018",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    4
+                ],
+                "text": "TBT"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1040229251692331008",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Cztzghwy4R"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 46,
+    "favorited": false,
+    "geo": null,
+    "id": 1040229251692331008,
+    "id_str": "1040229251692331008",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "#TBT: Myles Standish Hall in 1950 and now, following renovations that upgraded the living facilities for students w\u2026 https://t.co/Cztzghwy4R",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 13 00:51:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1040040112401342465",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Y8worIjXVK"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 11,
+    "favorited": false,
+    "geo": null,
+    "id": 1040040112401342465,
+    "id_str": "1040040112401342465",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "Massachusetts may have legalized recreational marijuana for those 21+ but that doesn't mean it's legal on campus. 1\u2026 https://t.co/Y8worIjXVK",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 12 17:26:30 +0000 2018",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    122,
+                    134
+                ],
+                "text": "NikeBoycott"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 52072652,
+                "id_str": "52072652",
+                "indices": [
+                    3,
+                    9
+                ],
+                "name": "HowardThurmanCenter",
+                "screen_name": "BUHTC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1039928250057875456,
+    "id_str": "1039928250057875456",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 12 16:14:01 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1039910010078355456",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "url": "https://t.co/gh8Op3qrI0"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 1039910010078355456,
+        "id_str": "1039910010078355456",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "How do you feel about Nike making Colin Kaepernick the face of its new ad campaign, leading to a new hashtag -\u2026 https://t.co/gh8Op3qrI0",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jun 29 14:33:59 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter account of the Howard Thurman Center for Common Ground. We break barriers & unify people. Want a #followback? Mention #BU in your profile!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bu.edu/thurman/",
+                            "expanded_url": "http://www.bu.edu/thurman/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/0rSaL8K06r"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 254,
+            "follow_request_sent": false,
+            "followers_count": 2806,
+            "following": false,
+            "friends_count": 699,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 52072652,
+            "id_str": "52072652",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 74,
+            "location": "Boston, MA",
+            "name": "HowardThurmanCenter",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52072652/1516977870",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2670136596/a0d981ce609e5fd0f094a584069048bb_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2670136596/a0d981ce609e5fd0f094a584069048bb_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BUHTC",
+            "statuses_count": 3085,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://t.co/0rSaL8K06r",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "RT @BUHTC: How do you feel about Nike making Colin Kaepernick the face of its new ad campaign, leading to a new hashtag - #NikeBoycott. Let\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 12 14:12:25 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1039879408012677120",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/xG2awlln3o"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18787640,
+                "id_str": "18787640",
+                "indices": [
+                    63,
+                    79
+                ],
+                "name": "BU Dining Services",
+                "screen_name": "BUDiningService"
+            }
+        ]
+    },
+    "favorite_count": 69,
+    "favorited": false,
+    "geo": null,
+    "id": 1039879408012677120,
+    "id_str": "1039879408012677120",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "The most highly anticipated meal of the year is back! Tonight, @BUDiningService's Lobster Night will serve up a fre\u2026 https://t.co/xG2awlln3o",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 12 13:23:07 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 700903452,
+                "id_str": "700903452",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "Only In Boston",
+                "screen_name": "OnlyInBOS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1039867000904994817,
+    "id_str": "1039867000904994817",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 54,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 12 13:00:01 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1039861187394121728",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/LP3AOMiPaX"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 362,
+        "favorited": false,
+        "geo": null,
+        "id": 1039861187394121728,
+        "id_str": "1039861187394121728",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 54,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Boston University Lobster Night, an annual tradition since the early 1980s, is tonight.\n\nWhen you enter any one of\u2026 https://t.co/LP3AOMiPaX",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jul 17 11:42:05 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Informational. Genuine. Local. Versatile. onlyinbos@gmail.com",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/oib_fb",
+                            "expanded_url": "http://bit.ly/oib_fb",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/rpt1JCciVL"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 91738,
+            "follow_request_sent": false,
+            "followers_count": 503547,
+            "following": false,
+            "friends_count": 617,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 700903452,
+            "id_str": "700903452",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1210,
+            "location": "Boston, MA",
+            "name": "Only In Boston",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/700903452/1414782706",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/899795467868839936/zee39Jhr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/899795467868839936/zee39Jhr_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "OnlyInBOS",
+            "statuses_count": 61738,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/rpt1JCciVL",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "RT @OnlyInBOS: Boston University Lobster Night, an annual tradition since the early 1980s, is tonight.\n\nWhen you enter any one of BU's 3 Di\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 12 00:25:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1039671181178224641",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Z9NIVgKSIb"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 25,
+    "favorited": false,
+    "geo": null,
+    "id": 1039671181178224641,
+    "id_str": "1039671181178224641",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "The start of the new semester has already brought two fires to the Charles River Campus. Whether you live on campus\u2026 https://t.co/Z9NIVgKSIb",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 11 20:37:09 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2385581340,
+                "id_str": "2385581340",
+                "indices": [
+                    3,
+                    10
+                ],
+                "name": "BU GCA",
+                "screen_name": "BU_GCA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1039613839514525697,
+    "id_str": "1039613839514525697",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Sep 11 19:20:18 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1039594499478093825",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/EAq6ckCrs6"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "geo": null,
+        "id": 1039594499478093825,
+        "id_str": "1039594499478093825",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -71.191421,
+                            42.227797
+                        ],
+                        [
+                            -70.986004,
+                            42.227797
+                        ],
+                        [
+                            -70.986004,
+                            42.399542
+                        ],
+                        [
+                            -71.191421,
+                            42.399542
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Boston, MA",
+            "id": "67b98f17fdcf20be",
+            "name": "Boston",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "SUNDAY, SEPT 30th - Join us for the 15th Annual Brian Honan 5K \ud83d\udc5fcome walk/run in your BU gear! Free tshirt &amp; FREE R\u2026 https://t.co/EAq6ckCrs6",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 12 17:37:19 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Boston University Government & Community Affairs",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 39,
+            "follow_request_sent": false,
+            "followers_count": 225,
+            "following": false,
+            "friends_count": 123,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2385581340,
+            "id_str": "2385581340",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 6,
+            "location": "",
+            "name": "BU GCA",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2385581340/1407329480",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/446305173372014592/G-EMXuoU_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/446305173372014592/G-EMXuoU_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BU_GCA",
+            "statuses_count": 193,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "RT @BU_GCA: SUNDAY, SEPT 30th - Join us for the 15th Annual Brian Honan 5K \ud83d\udc5fcome walk/run in your BU gear! Free tshirt &amp; FREE REGISTRATION\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 11 19:10:01 +0000 2018",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    16
+                ],
+                "text": "TerrierTuesdays"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1039591912271949824",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/E2I25WOniN"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 13,
+    "favorited": false,
+    "geo": null,
+    "id": 1039591912271949824,
+    "id_str": "1039591912271949824",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "#TerrierTuesdays: Meet Nicolas Suarez (CAS'21, Pardee'21), a political science and international relations major wh\u2026 https://t.co/E2I25WOniN",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 11 16:47:30 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1039556048888229888",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/rpnGjp9ET2"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 20,
+    "favorited": false,
+    "geo": null,
+    "id": 1039556048888229888,
+    "id_str": "1039556048888229888",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Sep 11 16:14:55 +0000 2018",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        15,
+                        19
+                    ],
+                    "text": "UC3"
+                },
+                {
+                    "indices": [
+                        89,
+                        93
+                    ],
+                    "text": "UC3"
+                },
+                {
+                    "indices": [
+                        95,
+                        106
+                    ],
+                    "text": "stepup2018"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1039547849564979200",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/rjiTa6qtTp"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 104561488,
+                    "id_str": "104561488",
+                    "indices": [
+                        43,
+                        53
+                    ],
+                    "name": "Boston University",
+                    "screen_name": "BU_Tweets"
+                },
+                {
+                    "id": 84327770,
+                    "id_str": "84327770",
+                    "indices": [
+                        55,
+                        61
+                    ],
+                    "name": "UConn",
+                    "screen_name": "UConn"
+                },
+                {
+                    "id": 39306293,
+                    "id_str": "39306293",
+                    "indices": [
+                        63,
+                        77
+                    ],
+                    "name": "USF",
+                    "screen_name": "USouthFlorida"
+                },
+                {
+                    "id": 17815224,
+                    "id_str": "17815224",
+                    "indices": [
+                        79,
+                        85
+                    ],
+                    "name": "Washington University in St. Louis",
+                    "screen_name": "WUSTL"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1039547849564979200,
+        "id_str": "1039547849564979200",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\ud835\udc01\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc24\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc27\ud835\udc1e\ud835\udc30\ud835\udc2c! #UC3 is expanding. Welcome, @BU_Tweets, @UConn, @USouthFlorida, @WUSTL to #UC3. #stepup2018 Press re\u2026 https://t.co/rjiTa6qtTp",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jul 07 14:08:16 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Formerly Second Nature's ACUPCC. Building a sustainable positive global future through the Presidents' #ClimateLeadership Commitments in #highered",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "secondnature.org",
+                            "expanded_url": "http://www.secondnature.org/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/ctm8zosovA"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1680,
+            "follow_request_sent": false,
+            "followers_count": 4447,
+            "following": false,
+            "friends_count": 2851,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 54555881,
+            "id_str": "54555881",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 306,
+            "location": "USA",
+            "name": "Second Nature",
+            "notifications": false,
+            "profile_background_color": "EDDEB2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54555881/1536761871",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/658708616762011648/OJmZwrFH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/658708616762011648/OJmZwrFH_normal.jpg",
+            "profile_link_color": "088253",
+            "profile_sidebar_border_color": "615533",
+            "profile_sidebar_fill_color": "EDDEB2",
+            "profile_text_color": "402228",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LeadOnClimate",
+            "statuses_count": 7324,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://t.co/ctm8zosovA",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1039547849564979200,
+    "quoted_status_id_str": "1039547849564979200",
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "We're proud to join our peers in UC3, a coalition that will serve as a prototype for how research universities step\u2026 https://t.co/rpnGjp9ET2",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 11 15:01:28 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1039529364021538817",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/OE3PoukJEN"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 57,
+    "favorited": false,
+    "geo": null,
+    "id": 1039529364021538817,
+    "id_str": "1039529364021538817",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "Did you ever notice that all of Boston's skyscrapers are tightly concentrated in a row? Or know that the Charles Ri\u2026 https://t.co/OE3PoukJEN",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 11 14:22:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1039519430588461057",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/c3svV2zUcY"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 27,
+    "favorited": false,
+    "geo": null,
+    "id": 1039519430588461057,
+    "id_str": "1039519430588461057",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "Despite the health crisis posed by the opioid epidemic, few doctors are fully trained in the specialty of addiction\u2026 https://t.co/c3svV2zUcY",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 11 13:09:01 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jFYYqp9BtA",
+                "expanded_url": "https://twitter.com/BostonGlobeArts/status/1037907570898481152/photo/1",
+                "id": 1037907568964694017,
+                "id_str": "1037907568964694017",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/Dmdjb1XUcAE4Nf1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Dmdjb1XUcAE4Nf1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 390,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "medium": {
+                        "h": 390,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "small": {
+                        "h": 390,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 1037907570898481152,
+                "source_status_id_str": "1037907570898481152",
+                "source_user_id": 30450430,
+                "source_user_id_str": "30450430",
+                "type": "photo",
+                "url": "https://t.co/jFYYqp9BtA"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "buff.ly/2M2cvXJ",
+                "expanded_url": "https://buff.ly/2M2cvXJ",
+                "indices": [
+                    71,
+                    94
+                ],
+                "url": "https://t.co/uXuoxqhnat"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30450430,
+                "id_str": "30450430",
+                "indices": [
+                    3,
+                    19
+                ],
+                "name": "Boston Globe Arts",
+                "screen_name": "BostonGlobeArts"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jFYYqp9BtA",
+                "expanded_url": "https://twitter.com/BostonGlobeArts/status/1037907570898481152/photo/1",
+                "id": 1037907568964694017,
+                "id_str": "1037907568964694017",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/Dmdjb1XUcAE4Nf1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Dmdjb1XUcAE4Nf1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 390,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "medium": {
+                        "h": 390,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "small": {
+                        "h": 390,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 1037907570898481152,
+                "source_status_id_str": "1037907570898481152",
+                "source_user_id": 30450430,
+                "source_user_id_str": "30450430",
+                "type": "photo",
+                "url": "https://t.co/jFYYqp9BtA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1039501063513100289,
+    "id_str": "1039501063513100289",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Sep 07 03:37:02 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/jFYYqp9BtA",
+                    "expanded_url": "https://twitter.com/BostonGlobeArts/status/1037907570898481152/photo/1",
+                    "id": 1037907568964694017,
+                    "id_str": "1037907568964694017",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dmdjb1XUcAE4Nf1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dmdjb1XUcAE4Nf1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 390,
+                            "resize": "fit",
+                            "w": 585
+                        },
+                        "medium": {
+                            "h": 390,
+                            "resize": "fit",
+                            "w": 585
+                        },
+                        "small": {
+                            "h": 390,
+                            "resize": "fit",
+                            "w": 585
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jFYYqp9BtA"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "buff.ly/2M2cvXJ",
+                    "expanded_url": "https://buff.ly/2M2cvXJ",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "url": "https://t.co/uXuoxqhnat"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/jFYYqp9BtA",
+                    "expanded_url": "https://twitter.com/BostonGlobeArts/status/1037907570898481152/photo/1",
+                    "id": 1037907568964694017,
+                    "id_str": "1037907568964694017",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dmdjb1XUcAE4Nf1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dmdjb1XUcAE4Nf1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 390,
+                            "resize": "fit",
+                            "w": 585
+                        },
+                        "medium": {
+                            "h": 390,
+                            "resize": "fit",
+                            "w": 585
+                        },
+                        "small": {
+                            "h": 390,
+                            "resize": "fit",
+                            "w": 585
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jFYYqp9BtA"
+                }
+            ]
+        },
+        "favorite_count": 12,
+        "favorited": false,
+        "geo": null,
+        "id": 1037907570898481152,
+        "id_str": "1037907570898481152",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "At BU, a global music festival goes the distance. https://t.co/uXuoxqhnat https://t.co/jFYYqp9BtA",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 11 13:54:01 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Arts news from the Boston Globe @bostonglobe | @globemovies | @globemusic | @bglobebooks | @globenames. Follow us on IG bostonglobelife",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bostonglobe.com/arts",
+                            "expanded_url": "http://www.bostonglobe.com/arts",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/0IEBTc10Px"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 206,
+            "follow_request_sent": false,
+            "followers_count": 21156,
+            "following": false,
+            "friends_count": 115,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 30450430,
+            "id_str": "30450430",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 885,
+            "location": "Boston, MA",
+            "name": "Boston Globe Arts",
+            "notifications": false,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30450430/1488173965",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/689490327858589696/XCDxnBrO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/689490327858589696/XCDxnBrO_normal.jpg",
+            "profile_link_color": "828081",
+            "profile_sidebar_border_color": "DEDEDE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BostonGlobeArts",
+            "statuses_count": 25519,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/0IEBTc10Px",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "RT @BostonGlobeArts: At BU, a global music festival goes the distance. https://t.co/uXuoxqhnat https://t.co/jFYYqp9BtA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 11 12:56:30 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "spr.ly/6018DLAyi",
+                "expanded_url": "http://spr.ly/6018DLAyi",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/VWXWUpB21i"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 115,
+    "favorited": false,
+    "geo": null,
+    "id": 1039497914245165057,
+    "id_str": "1039497914245165057",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 24,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "17 years later, we remember the members of our BU community &amp; all the victims of the September 11 attacks: https://t.co/VWXWUpB21i",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 10 18:12:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1039214924642299911",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/hrH7VBusUt"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 12,
+    "favorited": false,
+    "geo": null,
+    "id": 1039214924642299911,
+    "id_str": "1039214924642299911",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "Are you the parent of a new Terrier?\nIntroducing our parent's survival guide, with tips on how to let go and ways t\u2026 https://t.co/hrH7VBusUt",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 10 14:22:26 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1039157152869482497",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/6WRcPdpUTB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 6577642,
+                "id_str": "6577642",
+                "indices": [
+                    108,
+                    115
+                ],
+                "name": "U.S. News",
+                "screen_name": "usnews"
+            }
+        ]
+    },
+    "favorite_count": 133,
+    "favorited": false,
+    "geo": null,
+    "id": 1039157152869482497,
+    "id_str": "1039157152869482497",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 44,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "BU was named one of the most innovative national universities for the first time in the newly released 2019 @usnews\u2026 https://t.co/6WRcPdpUTB",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 09 13:29:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1038781317054451712",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/i6FIvpyGxV"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 286228656,
+                "id_str": "286228656",
+                "indices": [
+                    42,
+                    52
+                ],
+                "name": "BU Sargent College",
+                "screen_name": "BUSargent"
+            }
+        ]
+    },
+    "favorite_count": 16,
+    "favorited": false,
+    "geo": null,
+    "id": 1038781317054451712,
+    "id_str": "1038781317054451712",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "New to this whole grocery shopping thing? @BUSargent nutritionists provide their tips for grocery shopping, meal pr\u2026 https://t.co/i6FIvpyGxV",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 09 00:56:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1038591818429030407",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/auojXLntPb"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 25,
+    "favorited": false,
+    "geo": null,
+    "id": 1038591818429030407,
+    "id_str": "1038591818429030407",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "She's responsible for BU's acquisition of the personal collections of public figures such as MLK, Robin Williams, a\u2026 https://t.co/auojXLntPb",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 08 13:14:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1038415154017382400",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/vwJbX4f3Je"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 79,
+    "favorited": false,
+    "geo": null,
+    "id": 1038415154017382400,
+    "id_str": "1038415154017382400",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "You may know the Kenmore/Fenway neighborhood as home to the iconic Citgo sign \ud83d\udd3aand Fenway Park \u26be\ufe0f but this nearby n\u2026 https://t.co/vwJbX4f3Je",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 07 19:36:52 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 293709920,
+                "id_str": "293709920",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "AAU",
+                "screen_name": "AAUniversities"
+            },
+            {
+                "id": 104561488,
+                "id_str": "104561488",
+                "indices": [
+                    32,
+                    42
+                ],
+                "name": "Boston University",
+                "screen_name": "BU_Tweets"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1038149117447471104,
+    "id_str": "1038149117447471104",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Sep 07 19:35:06 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1038148672591208449",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/pn8VtdQyNV"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 104561488,
+                    "id_str": "104561488",
+                    "indices": [
+                        12,
+                        22
+                    ],
+                    "name": "Boston University",
+                    "screen_name": "BU_Tweets"
+                }
+            ]
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 1038148672591208449,
+        "id_str": "1038148672591208449",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Researchers @BU_Tweets have developed a tool that will help determine whether a new virus found in animals could ca\u2026 https://t.co/pn8VtdQyNV",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 05 20:48:50 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The Association of American Universities comprises 62 distinguished institutions that continually advance society through education, research, and discovery.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "aau.edu",
+                            "expanded_url": "http://www.aau.edu",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/398Gy7UAJi"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 561,
+            "follow_request_sent": false,
+            "followers_count": 11331,
+            "following": false,
+            "friends_count": 713,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 293709920,
+            "id_str": "293709920",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 438,
+            "location": "Washington, DC",
+            "name": "AAU",
+            "notifications": false,
+            "profile_background_color": "004684",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/293709920/1493929149",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/860226877746806785/UguHUWwU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/860226877746806785/UguHUWwU_normal.jpg",
+            "profile_link_color": "0070CD",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AAUniversities",
+            "statuses_count": 12538,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://t.co/398Gy7UAJi",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "RT @AAUniversities: Researchers @BU_Tweets have developed a tool that will help determine whether a new virus found in animals could cause\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 07 17:40:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1038119707763716096",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/kEtvbq6Xbi"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 40924772,
+                "id_str": "40924772",
+                "indices": [
+                    8,
+                    14
+                ],
+                "name": "BU StudentActivities",
+                "screen_name": "saoBU"
+            }
+        ]
+    },
+    "favorite_count": 27,
+    "favorited": false,
+    "geo": null,
+    "id": 1038119707763716096,
+    "id_str": "1038119707763716096",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "Splash, @saoBU's epic activities expo featuring hundreds of student groups, returns to Nickerson Field this Saturda\u2026 https://t.co/kEtvbq6Xbi",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 07 13:53:33 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1038062721147830272",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/yW0mKHgldE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3108351,
+                "id_str": "3108351",
+                "indices": [
+                    38,
+                    42
+                ],
+                "name": "The Wall Street Journal",
+                "screen_name": "WSJ"
+            },
+            {
+                "id": 23602600,
+                "id_str": "23602600",
+                "indices": [
+                    47,
+                    61
+                ],
+                "name": "TimesHigherEducation",
+                "screen_name": "timeshighered"
+            }
+        ]
+    },
+    "favorite_count": 287,
+    "favorited": false,
+    "geo": null,
+    "id": 1038062721147830272,
+    "id_str": "1038062721147830272",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 74,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "In 2019 rankings of U.S. schools from @WSJ and @timeshighered, BU advanced four spots to #36. They placed a heavy e\u2026 https://t.co/yW0mKHgldE",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 07 02:27:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1037889943975149568",
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/pKVfdt0KkH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 193368357,
+                "id_str": "193368357",
+                "indices": [
+                    100,
+                    109
+                ],
+                "name": "BU Police Department",
+                "screen_name": "BUPolice"
+            }
+        ]
+    },
+    "favorite_count": 15,
+    "favorited": false,
+    "geo": null,
+    "id": 1037889943975149568,
+    "id_str": "1037889943975149568",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "The number one crime on campus? Theft of personal property, from backpacks to laptops to bicycles.  @BUPolice's\u2026 https://t.co/pKVfdt0KkH",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 06 21:05:02 +0000 2018",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    18
+                ],
+                "text": "ThrowbackThursday"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1037808920641921024",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/VkmnOOcW2J"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 40924772,
+                "id_str": "40924772",
+                "indices": [
+                    29,
+                    35
+                ],
+                "name": "BU StudentActivities",
+                "screen_name": "saoBU"
+            }
+        ]
+    },
+    "favorite_count": 13,
+    "favorited": false,
+    "geo": null,
+    "id": 1037808920641921024,
+    "id_str": "1037808920641921024",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "#ThrowbackThursday: Splash \u2014 @saoBU's massive activities fair showcasing hundreds of student groups and clubs \u2014 cir\u2026 https://t.co/VkmnOOcW2J",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 06 18:20:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1037767386131255296",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/uwu2LC0uRo"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 193368357,
+                "id_str": "193368357",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "BU Police Department",
+                "screen_name": "BUPolice"
+            },
+            {
+                "id": 19185333,
+                "id_str": "19185333",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "Boston Police Dept.",
+                "screen_name": "bostonpolice"
+            }
+        ]
+    },
+    "favorite_count": 11,
+    "favorited": false,
+    "geo": null,
+    "id": 1037767386131255296,
+    "id_str": "1037767386131255296",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": ".@BUPolice and @bostonpolice begin their alcohol enforcement patrols this weekend, seeking to curtail illegal drink\u2026 https://t.co/uwu2LC0uRo",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 06 15:14:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1037720578034204672",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/PaFTPQDyO9"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 7,
+    "favorited": false,
+    "geo": null,
+    "id": 1037720578034204672,
+    "id_str": "1037720578034204672",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "The Weekender (noun |  \\ \u02c8w\u0113k-\u02c8en-d\u0259r \\): Your new weekly guide to things to do, places to shop, and where to eat -\u2026 https://t.co/PaFTPQDyO9",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 06 14:24:29 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1037708118829006848",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/JTW57V4Ylw"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 35,
+    "favorited": false,
+    "geo": null,
+    "id": 1037708118829006848,
+    "id_str": "1037708118829006848",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "The start of freshman year is full of emotions \u2014 confusion, loneliness, exhilaration, pride \u2014 and that's just for t\u2026 https://t.co/JTW57V4Ylw",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 06 00:33:00 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1037498867917438976",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/iOdlsGbYSK"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 28,
+    "favorited": false,
+    "geo": null,
+    "id": 1037498867917438976,
+    "id_str": "1037498867917438976",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "After 13 tears, the FBI recovered Dorothy's stolen ruby red slippers worn in The Wizard of Oz. Originally, nobody w\u2026 https://t.co/iOdlsGbYSK",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 05 19:49:38 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1037427555643609095",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/jMvMU5n3TM"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 11,
+    "favorited": false,
+    "geo": null,
+    "id": 1037427555643609095,
+    "id_str": "1037427555643609095",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "While most of our Terriers were away, Comm Ave was transformed into a construction zone with crews working around t\u2026 https://t.co/jMvMU5n3TM",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 05 18:15:01 +0000 2018",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1037403744038731776",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/k185jKzrTO"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 218694605,
+                "id_str": "218694605",
+                "indices": [
+                    70,
+                    80
+                ],
+                "name": "BU Hillel",
+                "screen_name": "BU_Hillel"
+            }
+        ]
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 1037403744038731776,
+    "id_str": "1037403744038731776",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "It's a BU-tiful day for a BBQ! \ud83c\udf54\ud83c\udf2d\nAll BU students are invited to join @BU_Hillel for free food and to learn about J\u2026 https://t.co/k185jKzrTO",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 18:17:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter feed of Boston University. Join the conversation & follow us to hear about events, announcements & all things #BU!\nEmail us: social@bu.edu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bu.edu",
+                        "expanded_url": "http://bu.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L9mQIxl5yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3659,
+        "follow_request_sent": false,
+        "followers_count": 92602,
+        "following": false,
+        "friends_count": 22411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104561488,
+        "id_str": "104561488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1321,
+        "location": "Boston, MA",
+        "name": "Boston University",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104561488/1446482377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905086262746505217/TLzX_Dba_normal.jpg",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "E8E5E5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BU_Tweets",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L9mQIxl5yQ",
+        "utc_offset": null,
+        "verified": true
+    }
+}

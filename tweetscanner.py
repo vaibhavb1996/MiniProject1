@@ -38,13 +38,13 @@ def get_all_tweets(screen_name):
 		newTweets=api.user_timeline(screen_name=screen_name,count=10,max_id=oldest)
 		#add more tweets
 		tweets.extend(newTweets)
+		
 		#update oldest's id
 		oldest=tweets[-1].id-1
 		#break condition
 		if len(tweets)>20:
 			break
-		print("..%s tweets downloaded so far" %len(tweets))
-
+		print(len(tweets))
 	#write tweets to JSON
 	file=open('tweets.json', 'w')
 	print("File being exported to JSON")
