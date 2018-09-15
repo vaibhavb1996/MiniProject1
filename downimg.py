@@ -16,6 +16,6 @@ def download_images(mediaURLs):
             img_name=folder+"/"+img_no+".jpg"
             wget.download(mediaURL, out=img_name)
 
-if __name__==__main__:
+if __name__=='__main__':
 	print("Need main function to call..")
 	exit()

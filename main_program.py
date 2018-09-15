@@ -8,5 +8,5 @@ def main():
 	downimg.download_images(tweetscanner.mediaURLs)
 	print("Images downloaded. Converting to video..")
 
-if __name__==__main__:
+if __name__=='__main__':
 	main()
