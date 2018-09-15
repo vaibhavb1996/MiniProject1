@@ -24,7 +24,7 @@ def get_all_tweets(screen_name):
 	tweets=[]
 
 	#initial request for new tweets
-	newTweets=api.user_timeline(screen_name=screen_name,count=10)
+	newTweets=api.user_timeline(screen_name=screen_name,count=1)
 
 	#save one tweet
 	tweets.extend(newTweets)
@@ -35,17 +35,17 @@ def get_all_tweets(screen_name):
 	#adding more tweets
 	while len(tweets)>0:
 		#subsequent tweets use oldest's id to avoid duplicacy
-		newTweets=api.user_timeline(screen_name=screen_name,count=10,max_id=oldest)
+		newTweets=api.user_timeline(screen_name=screen_name,count=200,max_id=oldest)
 		#add more tweets
 		tweets.extend(newTweets)
 		
 		#update oldest's id
 		oldest=tweets[-1].id-1
 		#break condition
-		if len(tweets)>20:
+		if len(tweets)>2000:
 			break
 		print(len(tweets))
-	#extracting the image
+	#extracting the image URLs
 	mediaURLs=[]
 	for i in tweets:
 		media=i.entities.get('media',[])
@@ -54,6 +54,7 @@ def get_all_tweets(screen_name):
 			file_type=url.split(".")[-1]
 			if file_type=='jpg':
 				mediaURLs.append(media[0]['media_url'])
+	#print(mediaURLs)
 
 if __name__=='__main__':
 	get_all_tweets("@BU_Tweets")
