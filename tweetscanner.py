@@ -3,7 +3,7 @@
 
 #importing twitter and json modules
 import tweepy 
-import json 
+import os, sys ,wget
 
 #Twitter Credentials
 #consumerKey="Enter your consumer key"
