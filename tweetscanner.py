@@ -52,6 +52,7 @@ def get_all_tweets(screen_name):
 		if len(tweets)>2000:
 			break
 		print(len(tweets))
+	
 	#extracting the image URLs
 	mediaURLs=[]
 	for i in tweets:
@@ -62,6 +63,22 @@ def get_all_tweets(screen_name):
 			if file_type=='jpg':
 				mediaURLs.append(media[0]['media_url'])
 	#print(mediaURLs)
+	folder=os.getcwd()+"/images"
+	try:
+		if os.path.exists(folder):
+			print("folder already exists")
+		else:
+			os.mkdir(folder)
+	except OSError:
+		print("error creating directory")
+	
+	#downloading files
+	print("Let's get the images..")
+	for index,mediaURL in enumerate(mediaURLs):
+            img_no=str(index).zfill(3)
+            img_name=folder+"/"+img_no+".jpg"
+            wget.download(mediaURL, out=img_name)
+
 
 if __name__=='__main__':
 	get_all_tweets(input("Enter the twitter handle: "))
