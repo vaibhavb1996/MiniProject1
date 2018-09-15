@@ -57,4 +57,4 @@ def get_all_tweets(screen_name):
 	#print(mediaURLs)
 
 if __name__=='__main__':
-	get_all_tweets("@BU_Tweets")
+	get_all_tweets(input("Enter the twitter handle (Dont' forget to put @ before the handle name): "))
