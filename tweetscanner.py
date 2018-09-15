@@ -45,15 +45,15 @@ def get_all_tweets(screen_name):
 		if len(tweets)>20:
 			break
 		print(len(tweets))
-	#write tweets to JSON
-	file=open('tweets.json', 'w')
-	print("File being exported to JSON")
-	for status in tweets:
-		json.dump(status._json, file, sort_keys=True, indent=4)
-
-	#close file
-	print("Done")
-	file.close()
+	#extracting the image
+	mediaURLs=[]
+	for i in tweets:
+		media=i.entities.get('media',[])
+		if len(media)>0:
+			url=media[0]['media_url']
+			file_type=url.split(".")[-1]
+			if file_type=='jpg':
+				mediaURLs.append(media[0]['media_url'])
 
 if __name__=='__main__':
 	get_all_tweets("@BU_Tweets")
