@@ -19,7 +19,14 @@ def get_all_tweets(screen_name):
 	auth=tweepy.OAuthHandler(twicred.consumerKey,twicred.consumerSecret)
 	auth.set_access_token(twicred.accessKey,twicred.accessSecret)
 	api=tweepy.API(auth)
-
+	#twitter handle confirmation
+	try:
+		user=api.get_user(screen_name)
+		print(user.id_str)
+		print(user.screen_name+" exists")
+	except:
+		print("username doesn't exist. Try running with another username.\n ")
+		get_all_tweets(input("Enter Twitter Handle: "))
 	#grab tweets
 	tweets=[]
 
