@@ -75,7 +75,7 @@ def get_all_tweets(screen_name):
 	#downloading files
 	print("Let's get the images..")
 	for index,mediaURL in enumerate(mediaURLs):
-            img_no=str(index).zfill(3)
+            img_no=str(index).zfill(5)
             img_name=folder+"/"+img_no+".jpg"
             wget.download(mediaURL, out=img_name)
 
