@@ -8,11 +8,11 @@ def analyse_video(path):
 	features = [videointelligence.enums.Feature.LABEL_DETECTION]
 	with io.open(path, 'rb') as video:
 		input_data=video.read()
-		print("video opened")
+		#print("video opened")
 	try:
 		operation=video_client.annotate_video(features=features, input_content=input_data)
 		result=operation.result(timeout=90)
-		print("Result generated")
+		#print("Result generated")
 	except Exception as e:
 		print("Error with video processing: "+e)
 		exit()
