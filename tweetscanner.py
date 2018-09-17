@@ -67,6 +67,11 @@ def get_all_tweets(screen_name):
 			if file_type=='jpg':
 				mediaURLs.append(media[0]['media_url'])
 	
+	#no images exception
+	if len(mediaURLs)==0:
+		print("no images to download, try another twitter handle")
+		get_all_tweets(input("Enter Twitter handle: "))
+	
 	folder=os.getcwd()+"/images"
 	try:
 		if os.path.exists(folder):
