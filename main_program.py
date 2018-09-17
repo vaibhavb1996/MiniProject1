@@ -12,7 +12,10 @@ def main():
 	make_video.create_video(handle)
 	print("Analysing video..")
 	path=handle+".mp4"
-	analysis.ayalyse_video(path)
+	analysis.analyse_video(path)
+	#closing notes
+	print("Thanks for using our application!")
+
 
 if __name__=='__main__':
 	main()
