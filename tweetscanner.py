@@ -38,9 +38,10 @@ def get_all_tweets(screen_name):
 
 	#oldest tweet Id
 	oldest=tweets[-1].id-1
-
+	i=1
+	count=[len(tweets)]
 	#adding more tweets
-	while len(tweets)>0:
+	while i>0:
 		#subsequent tweets use oldest's id to avoid duplicacy
 		newTweets=api.user_timeline(screen_name=screen_name,count=200,max_id=oldest)
 		#add more tweets
@@ -48,9 +49,12 @@ def get_all_tweets(screen_name):
 		
 		#update oldest's id
 		oldest=tweets[-1].id-1
+		count.append(len(tweets))
+
 		#break condition
-		if len(tweets)>2000:
+		if len(tweets)>2000 or count[i]==count[i-1]:
 			break
+		i=i+1
 		print(len(tweets))
 	
 	#extracting the image URLs
@@ -62,7 +66,7 @@ def get_all_tweets(screen_name):
 			file_type=url.split(".")[-1]
 			if file_type=='jpg':
 				mediaURLs.append(media[0]['media_url'])
-	#print(mediaURLs)
+	
 	folder=os.getcwd()+"/images"
 	try:
 		if os.path.exists(folder):
