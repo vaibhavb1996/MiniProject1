@@ -11,6 +11,5 @@ def create_video(screen_name):
 		exit()
 
 if __name__=='__main__':
-	print("call from main function..")
-	#exit()
+	print("Not running from main function..")
 	create_video(screen_name)
