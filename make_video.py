@@ -6,8 +6,8 @@ def create_video(screen_name):
 		command="ffmpeg -framerate 1 -i images/%05d.jpg -vcodec mpeg4 "+screen_name+".mp4"
 		os.system(command)
 		print("Video created..")
-	except Exception as e:
-		print(e)
+	except Exception as error:
+		print("Error in making video: "+error)
 		exit()
 
 if __name__=='__main__':
