@@ -90,4 +90,5 @@ def get_all_tweets(screen_name):
 
 
 if __name__=='__main__':
+	print("Not running from main program..")
 	get_all_tweets(input("Enter the twitter handle: "))
