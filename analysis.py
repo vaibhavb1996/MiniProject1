@@ -6,15 +6,16 @@ import sys
 def analyse_video(path):
 	video_client=videointelligence.VideoIntelligenceServiceClient()
 	features = [videointelligence.enums.Feature.LABEL_DETECTION]
+	
+	#input the video to API
 	with io.open(path, 'rb') as video:
 		input_data=video.read()
-		#print("video opened")
+	#Generation of API result
 	try:
 		operation=video_client.annotate_video(features=features, input_content=input_data)
-		result=operation.result(timeout=90)
-		#print("Result generated")
-	except Exception as e:
-		print("Error with video processing: "+e)
+		result=operation.result(timeout=90)	
+	except Exception as error:
+		print("Error with video processing: "+error)
 		exit()
 	print("Analysis is Complete..")
 	
