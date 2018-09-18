@@ -27,4 +27,5 @@ def analyse_video(path):
 			print ("Label category description: "+category_entity.description)	
 
 if __name__=='__main__':
-	analyse_video(sys.argv[1])
+	print("Not running from Main program..")
+	analyse_video(input("Enter file path: "))
