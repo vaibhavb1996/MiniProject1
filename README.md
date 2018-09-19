@@ -10,6 +10,7 @@ To realise this, I made separate modules to define their functionality. These fi
 1. Tweetscanner: This file is supposed to get the twitter feeds using the tweepy module of python and then extract the image URLs form it. It is then downloading the data from the internet as images which is to be analysed.
 2. make_video: The images obtained in the tweetscanner function are stored locally and stiched into a video using the ffmpeg command on the command line.
 3. analysis: The output video is then fed to the Google Cloud Intelligence API to provide with the various labels that can be identified and the same are displayed to the user.
+
 The above functions are all combined by the help of the main_program.py python script. to run the program, follow the steps as mentioned below:-
 1. Open terminal
 2. Change into the directory with the program
