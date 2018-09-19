@@ -11,4 +11,9 @@ To realise this, I made separate modules to define their functionality. These fi
 2. make_video: The images obtained in the tweetscanner function are stored locally and stiched into a video using the ffmpeg command on the command line.
 3. analysis: The output video is then fed to the Google Cloud Intelligence API to provide with the various labels that can be identified and the same are displayed to the user.
 
-The above functions are all combined by the help of the main_program.py python script. 
+The above functions are all combined by the help of the main_program.py python script. To run the program, follow the steps as mentioned below:-
+
+Open terminal
+Change into the directory with the program
+In terminal, run the command python main_program.py
+Follow the on-screen instructions to navigate thorugh the program, and Enjoy!
