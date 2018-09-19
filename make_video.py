@@ -1,3 +1,5 @@
+#Copyright 2018 Vaibhav Bansal vbansal@bu.edu
+
 import os
 
 def create_video(screen_name):
