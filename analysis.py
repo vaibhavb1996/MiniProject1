@@ -1,3 +1,4 @@
+#Copyright 2018 Vaibhav Bansal vbansal@bu.edu
 import argparse
 from google.cloud import videointelligence
 import io
