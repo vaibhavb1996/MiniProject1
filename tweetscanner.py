@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-#author: Vaibhav Bansal
+#Copyright 2018 
+#author: Vaibhav Bansal (vbansal@bu.edu)
 
 #importing twitter and json modules
 import tweepy 
