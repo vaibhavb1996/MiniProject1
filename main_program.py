@@ -1,3 +1,5 @@
+#Copyright 2018 Vaibhav Bansal vbansal@bu.edu
+
 import tweetscanner
 import make_video
 import analysis
