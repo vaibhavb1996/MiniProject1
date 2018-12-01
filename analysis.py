@@ -2,8 +2,11 @@ import argparse
 from google.cloud import videointelligence
 import io
 import sys
+from Database import MyDatabase
 
 def analyse_video(path):
+	db = MyDatabase()
+
 	video_client = videointelligence.VideoIntelligenceServiceClient()
 	features = [videointelligence.enums.Feature.LABEL_DETECTION]
 	
@@ -25,7 +28,8 @@ def analyse_video(path):
 		print('Video label description: {}'.format(segment_label.entity.description))
 		for category_entity in segment_label.category_entities:
 			print ("Label category description: " + category_entity.description)	
-
+	db.close_connection()
+	
 if __name__ == '__main__':
 	print("Not running from Main program..")
 	analyse_video(input("Enter file path: "))
