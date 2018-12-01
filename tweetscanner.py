@@ -6,10 +6,10 @@ import tweepy
 import os, sys ,wget
 
 #Twitter Credentials
-#consumerKey="Enter your consumer key"
-#consumerSecret="Enter your consumer secret"
-#accessKey="Enter your access keys"
-#accessSecret="Enter your access secret"
+consumerKey="Enter your consumer key"
+consumerSecret="Enter your consumer secret"
+accessKey="Enter your access keys"
+accessSecret="Enter your access secret"
 
 #access twitter credentials from external file
 import twicred
