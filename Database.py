@@ -25,7 +25,7 @@ class MyDatabase():
 		self.cursor.execute("""
 			INSERT INTO Tweethistory (LastUsed)
 			VALUES (%s)
-			""",(time))
+			""", (time))
 		self.db.commit()
 		return int(self.cursor.lastrowid)
 
@@ -33,21 +33,25 @@ class MyDatabase():
 		self.cursor.execute("""
 			INSERT INTO Images
 			VALUES (%d, %s, %d)
-			""",(ID, handle, images))
+			""", (ID, handle, images))
 		self.db.commit()
-		
+
 
 	def update_user(self, ID, time):
 		self.cursor.execute("""
 			UPDATE Tweethistory
 			SET LastUsed = %s
 			WHERE UserID = %d
-			""",(time, ID))
+			""", (time, ID))
 		self.db.commit()
 
 
 	def add_label(self, ID, handle, label):
-		pass
+		self.cursor.execute("""
+			INSERT INTO Tags
+			VALUES (%d, %s, %s)
+			""", (ID, handle, label))
+		self.db.commit()
 
 	def check_user(self, ID):
 		self.cursor.execute("""
