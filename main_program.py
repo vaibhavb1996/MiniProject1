@@ -15,10 +15,20 @@ def main():
 	choice = input("Please enter your choice: ")
 	if (choice == 1):
 		ID = input("Enter your ID: ")
-		db.update_user(ID, time)
+		check = db.check_user(ID)
+		if (check == False):
+			print("Wrong ID, Please try again!")
+			db.close_connection()
+			main()
+		else:
+			db.update_user(ID, time)
 	elif (choice == 2):
-		#TODO 
 		ID = db.add_user(ID, time) #Create new database entry
+	else:
+		print("Wrong choice, please try again!")
+		db.close_connection()
+		main()
+
 	handle = input("Enter the twitter handle: ")
 	#calling tweetscanner to get tweets
 	tweetscanner.get_all_tweets(handle, ID)
@@ -31,8 +41,6 @@ def main():
 	#closing notes
 	db.close_connection()
 	print("Thanks for using our application!")
-
-
 
 if __name__ == '__main__':
 	main()
