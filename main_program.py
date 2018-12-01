@@ -2,9 +2,11 @@ import tweetscanner
 import make_video
 import analysis
 from Database import MyDatabase
+from time import gmtime, strftime
 
 def main():
 	db = MyDatabase()
+	time = strftime("%Y%m%d %H:%M:%S %p", gmtime())
 	print("Welcome to my project, Let's get started..")
 	print("\nPlease slect one of the following options:")
 	print("1. Use existing ID")
@@ -13,9 +15,10 @@ def main():
 	choice = input("Please enter your choice: ")
 	if (choice == 1):
 		ID = input("Enter your ID: ")
+		db.update_user(ID, time)
 	elif (choice == 2):
 		#TODO 
-		ID = db.add_user(time) #Create new database entry
+		ID = db.add_user(ID, time) #Create new database entry
 	handle = input("Enter the twitter handle: ")
 	#calling tweetscanner to get tweets
 	tweetscanner.get_all_tweets(handle, ID)
