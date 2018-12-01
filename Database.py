@@ -9,14 +9,29 @@ class MyDatabase():
 						database = "TweetDatabase"
 									)
 
-		db = mysql.connector.connect(
-						host = "localhost",
-						user = "root",
-						password = "bu",
-						database = "TweetDatabase"
-									)
-		# self.cursor = self.db.cursor()
-		cursor = db.cursor()
+		# db = mysql.connector.connect(
+		# 				host = "localhost",
+		# 				user = "root",
+		# 				password = "bu",
+		# 				database = "TweetDatabase"
+		#							)
+		self.cursor = self.db.cursor()
+		# cursor = db.cursor()
+
+	def close_connection():
+		self.db.disconnect()
+
+	def add_user(self, UserID, LastUsed):
+		pass
+
+	def add_images(self, ID, handle, images):
+		pass
+
+	def update_user(self, ID, time):
+		pass
+
+	def add_label(self, ID, handle, label):
+		pass
 
 		# cursor.execute("CREATE DATABASE TweetDatabase") !Has to be used just once!
 		# cursor.execute("CREATE TABLE Tweethistory(UserID INT, LastUsed DATETIME)") #The main table for the data !Only called once!
