@@ -21,8 +21,13 @@ class MyDatabase():
 	def close_connection():
 		self.db.disconnect()
 
-	def add_user(self, UserID, LastUsed):
-		pass
+	def add_user(self, time):
+		self.cursor.execute("""
+			INSERT INTO Tweethistory (LastUsed)
+			VALUES (%s)
+			""",(time))
+		self.db.commit()
+		return int(self.cursor.lastrowid)
 
 	def add_images(self, ID, handle, images):
 		pass
