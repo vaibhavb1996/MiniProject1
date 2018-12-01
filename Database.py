@@ -30,7 +30,12 @@ class MyDatabase():
 		return int(self.cursor.lastrowid)
 
 	def add_images(self, ID, handle, images):
-		pass
+		self.cursor.execute("""
+			INSERT INTO Images
+			VALUES (%d, %s, %d)
+			""",(ID, handle, images))
+		self.db.commit()
+		
 
 	def update_user(self, ID, time):
 		self.cursor.execute("""
@@ -39,7 +44,7 @@ class MyDatabase():
 			WHERE UserID = %d
 			""",(time, ID))
 		self.db.commit()
-		
+
 
 	def add_label(self, ID, handle, label):
 		pass
