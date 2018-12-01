@@ -15,7 +15,7 @@ def main():
 		ID = input("Enter your ID: ")
 	elif (choice == 2):
 		#TODO 
-		#Create new database entry
+		db.add_user(time) #Create new database entry
 	handle = input("Enter the twitter handle: ")
 	#calling tweetscanner to get tweets
 	tweetscanner.get_all_tweets(handle, ID)
@@ -23,7 +23,7 @@ def main():
 	#calling make video to generate video from images
 	make_video.create_video(handle)
 	print("Analysing video..")
-	path=handle+".mp4"
+	path = handle + ".mp4"
 	analysis.analyse_video(path)
 	#closing notes
 	db.close_connection()
@@ -31,5 +31,5 @@ def main():
 
 
 
-if __name__=='__main__':
+if __name__ == '__main__':
 	main()
