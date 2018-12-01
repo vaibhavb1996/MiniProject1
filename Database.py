@@ -33,6 +33,17 @@ class MyDatabase():
 	def add_label(self, ID, handle, label):
 		pass
 
+	def check_user(self, ID):
+		self.cursor.execute("""
+			SELECT 1
+			FROM Tweethistory
+			WHERE UserID = %d
+			"""%(ID))
+		if self.cursor.fetchone() == None:
+			return False
+		else:
+			return True
+
 		# cursor.execute("CREATE DATABASE TweetDatabase") !Has to be used just once!
 		# cursor.execute("CREATE TABLE Tweethistory(UserID INT, LastUsed DATETIME)") #The main table for the data !Only called once!
 		# cursor.execute("CREATE TABLE Tags(UserID INT, Handle VARCHAR(20), Tag VARCHAR(20))") #Relational table that will contain all the tags generated along with the UserID that encountered them !Only called onec!
