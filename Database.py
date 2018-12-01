@@ -33,7 +33,13 @@ class MyDatabase():
 		pass
 
 	def update_user(self, ID, time):
-		pass
+		self.cursor.execute("""
+			UPDATE Tweethistory
+			SET LastUsed = %s
+			WHERE UserID = %d
+			""",(time, ID))
+		self.db.commit()
+		
 
 	def add_label(self, ID, handle, label):
 		pass
