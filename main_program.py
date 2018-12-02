@@ -6,13 +6,18 @@ from time import gmtime, strftime
 
 def main():
 	db = MyDatabase()
-	time = strftime("%Y%m%d %H:%M:%S %p", gmtime())
+	images = 0
+	handle = ''
+	# time = strftime("%Y-%m-%d %H:%M:%S", gmtime())
+	# time = "2018-12-02 00:03:10" 
+	# a =(str(time))
+	# print(type(time))
 	print("Welcome to my project, Let's get started..")
 	print("\nPlease slect one of the following options:")
 	print("1. Use existing ID")
 	print("2. Create new ID")
 
-	choice = input("Please enter your choice: ")
+	choice = int(input("Please enter your choice: "))
 	if (choice == 1):
 		ID = input("Enter your ID: ")
 		check = db.check_user(ID)
@@ -23,7 +28,8 @@ def main():
 		else:
 			db.update_user(ID, time)
 	elif (choice == 2):
-		ID = db.add_user(ID, time) #Create new database entry
+		ID = db.add_images(handle, images)
+		print("Your ID is %d".format(ID)) #Create new database entry
 	else:
 		print("Wrong choice, please try again!")
 		db.close_connection()

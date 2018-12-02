@@ -87,12 +87,12 @@ def get_all_tweets(screen_name, ID):
 	#downloading files
 	print("Let's get the images..")
 	for index,mediaURL in enumerate(mediaURLs):
-            img_no = str(index).zfill(5)
-            img_name = folder + "/" + img_no + ".jpg"
-            wget.download(mediaURL, out = img_name)
-    db.add_images(ID, screen_name,len(mediaURLs)) #To update the table with the no of images for that handle
-    db.close_connection()
-
+		img_no = str(index).zfill(5)
+		img_name = folder + "/" + img_no + ".jpg"
+		wget.download(mediaURL, out = img_name)
+	
+	db.update_images(ID, screen_name, len(mediaURLs)) 
+	db.close_connection()
 
 if __name__=='__main__':
 	print("Not running from main program..")

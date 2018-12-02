@@ -18,32 +18,61 @@ class MyDatabase():
 		self.cursor = self.db.cursor()
 		# cursor = db.cursor()
 
-	def close_connection():
+	def close_connection(self):
 		self.db.disconnect()
 
-	def add_user(self, time):
-		self.cursor.execute("""
-			INSERT INTO Tweethistory (LastUsed)
-			VALUES (%s)
-			""", (time))
-		self.db.commit()
-		return int(self.cursor.lastrowid)
+	# def user(self):
+	# 	self.cursor.execute("""
+	# 		SELECT * FROM Tweethistory""")
+	# 	return self.cursor.lastrowid
 
-	def add_images(self, ID, handle, images):
+	# def add_user(self, time):
+	# 	self.cursor.execute("""
+	# 		INSERT INTO Tweethistory (LastUsed)
+	# 		VALUES (%s)
+	# 		""", (time))
+	# 	self.db.commit()
+	# 	user = self.cursor.lastrowid
+	# 	return user
+
+	def add_images(self, handle, images):
 		self.cursor.execute("""
-			INSERT INTO Images
-			VALUES (%d, %s, %d)
-			""", (ID, handle, images))
+			select * from Images""")
+		lastid = self.cursor.lastrowid
+		print(lastid)
+
+		self.cursor.execute("""
+			INSERT INTO Images (UserID, Handle, Img)
+			VALUES (%s, '%s', %s)
+			""", (lastid + 1, handle, images))
+		self.db.commit()
+		return (lastid + 1)
+
+	def update_images(self, ID, handle, images):
+		self.cursor.execute("""
+			UPDATE Images
+			SET Handle = '%s'
+			WHERE UserID = %s
+			""", (handle, ID))
+		self.db.commit()
+		self.cursor.execute("""
+			UPDATE Images
+			SET Img = %s
+			WHERE UserID = %s
+			""",(images, ID))
 		self.db.commit()
 
 
-	def update_user(self, ID, time):
-		self.cursor.execute("""
-			UPDATE Tweethistory
-			SET LastUsed = %s
-			WHERE UserID = %d
-			""", (time, ID))
-		self.db.commit()
+
+
+
+	# def update_user(self, ID, time):
+	# 	self.cursor.execute("""
+	# 		UPDATE Tweethistory
+	# 		SET LastUsed = '%s'
+	# 		WHERE UserID = %d
+	# 		""", (time, ID))
+	# 	self.db.commit()
 
 
 	def add_label(self, ID, handle, label):
@@ -56,7 +85,7 @@ class MyDatabase():
 	def check_user(self, ID):
 		self.cursor.execute("""
 			SELECT 1
-			FROM Tweethistory
+			FROM Images
 			WHERE UserID = %d
 			"""%(ID))
 		if self.cursor.fetchone() == None:
