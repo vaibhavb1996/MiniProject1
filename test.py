@@ -9,6 +9,7 @@ try:
 	print(type(value))
 	ID = db.add_user(value)
 	print(ID)
+	
 	db.add_images(1, 'BUtweets', 200)
 except Exception as e:
 	print(e)
