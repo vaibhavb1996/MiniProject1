@@ -65,7 +65,7 @@ class MyDatabase():
 				WHERE UserID = %s
 				""", (time, int(ID)))
 			self.db.commit()
-			return " User Updated!"
+			
 		except:
 			return "Problem occurred!" 
 
