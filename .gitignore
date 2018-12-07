@@ -4,3 +4,5 @@ images/
 __pycache__/
 mini_project_1-e9601f6ea7ff.json
 file.json
+Mongo_implementation/file.json
+Mongo_implementation/twicred.py
