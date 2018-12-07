@@ -63,7 +63,7 @@ def get_all_tweets(screen_name, ID):
 	#extracting the image URLs
 	mediaURLs = []
 	for i in tweets:
-		media = i.entities.get('media',[])
+		media = i.entities.get('media', [])
 		if len(media) > 0:
 			url = media[0]['media_url']
 			file_type = url.split(".")[-1]
