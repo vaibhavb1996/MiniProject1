@@ -26,7 +26,7 @@ def main():
 			db.close_connection()
 			main()
 		else:
-			(print(db.update_user(ID, time)))
+			print(db.update_user(ID, time))
 	elif (choice == 2):
 		ID = int(db.add_user(time))
 		print("Your ID is {}".format(ID)) #Create new database entry
