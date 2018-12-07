@@ -8,7 +8,7 @@ def main():
 	db = MyDatabase()
 	images = 0
 	handle = ''
-	# time = strftime("%Y-%m-%d %H:%M:%S", gmtime())
+	time = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 	# time = "2018-12-02 00:03:10" 
 	# a =(str(time))
 	# print(type(time))
@@ -19,17 +19,17 @@ def main():
 
 	choice = int(input("Please enter your choice: "))
 	if (choice == 1):
-		ID = input("Enter your ID: ")
+		ID = int(input("Enter your ID: "))
 		check = db.check_user(ID)
 		if (check == False):
 			print("Wrong ID, Please try again!")
 			db.close_connection()
 			main()
 		else:
-			db.update_user(ID, time)
+			(print(db.update_user(ID, time)))
 	elif (choice == 2):
-		ID = db.add_images(handle, images)
-		print("Your ID is %d".format(ID)) #Create new database entry
+		ID = int(db.add_user(time))
+		print("Your ID is {}".format(ID)) #Create new database entry
 	else:
 		print("Wrong choice, please try again!")
 		db.close_connection()
