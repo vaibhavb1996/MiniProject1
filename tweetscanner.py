@@ -72,28 +72,29 @@ def get_all_tweets(screen_name, ID):
 	
 	#no images exception
 	if len(mediaURLs) == 0:
-		print("no images to download, try another twitter handle")
-		get_all_tweets(input("Enter Twitter handle: "))
+		print("No images to download, try another twitter handle")
+		get_all_tweets(input("Enter Twitter handle: "), ID)
 	
 	folder = os.getcwd() + "/images"
 	try:
 		if os.path.exists(folder):
-			print("folder already exists")
+			print("Folder already exists")
 		else:
 			os.mkdir(folder)
 	except OSError:
-		print("error creating directory")
+		print("Error creating directory")
 	
 	#downloading files
 	print("Let's get the images..")
-	for index,mediaURL in enumerate(mediaURLs):
+	for index, mediaURL in enumerate(mediaURLs):
 		img_no = str(index).zfill(5)
 		img_name = folder + "/" + img_no + ".jpg"
 		wget.download(mediaURL, out = img_name)
 	
-	db.update_images(ID, screen_name, len(mediaURLs)) 
+	db.add_images(ID, screen_name, len(mediaURLs)) 
 	db.close_connection()
 
 if __name__=='__main__':
 	print("Not running from main program..")
-	get_all_tweets(input("Enter the twitter handle: "))
+	exit()
+	# get_all_tweets(input("Enter the twitter handle: "), ID)
