@@ -26,68 +26,63 @@ class MyDatabase():
 	# 		SELECT * FROM Tweethistory""")
 	# 	return self.cursor.lastrowid
 
-	# def add_user(self, time):
-	# 	self.cursor.execute("""
-	# 		INSERT INTO Tweethistory (LastUsed)
-	# 		VALUES (%s)
-	# 		""", (time))
-	# 	self.db.commit()
-	# 	user = self.cursor.lastrowid
-	# 	return user
-
-	def add_images(self, handle, images):
+	def add_user(self, time):
 		self.cursor.execute("""
-			select * from Images""")
-		lastid = self.cursor.lastrowid
-		print(lastid)
+			INSERT INTO Tweethistory (LastUsed)
+			VALUES (%s)
+			""", (time,))
+		self.db.commit()
+		user = self.cursor.lastrowid
+		return user
 
+	def add_images(self, ID, handle, images):
 		self.cursor.execute("""
 			INSERT INTO Images (UserID, Handle, Img)
-			VALUES (%s, '%s', %s)
-			""", (lastid + 1, handle, images))
-		self.db.commit()
-		return (lastid + 1)
-
-	def update_images(self, ID, handle, images):
-		self.cursor.execute("""
-			UPDATE Images
-			SET Handle = '%s'
-			WHERE UserID = %s
-			""", (handle, ID))
-		self.db.commit()
-		self.cursor.execute("""
-			UPDATE Images
-			SET Img = %s
-			WHERE UserID = %s
-			""",(images, ID))
+			VALUES (%s, %s, %s)
+			""", (ID, handle, images))
 		self.db.commit()
 
-
-
-
-
-	# def update_user(self, ID, time):
+	# def update_images(self, ID, handle, images):
 	# 	self.cursor.execute("""
-	# 		UPDATE Tweethistory
-	# 		SET LastUsed = '%s'
-	# 		WHERE UserID = %d
-	# 		""", (time, ID))
+	# 		UPDATE Images
+	# 		SET Handle = '%s'
+	# 		WHERE UserID = %s
+	# 		""", (handle, ID))
 	# 	self.db.commit()
+	# 	self.cursor.execute("""
+	# 		UPDATE Images
+	# 		SET Img = %s
+	# 		WHERE UserID = %s
+	# 		""",(images, ID))
+	# 	self.db.commit()
+
+
+	def update_user(self, ID, time):
+		try:
+			self.cursor.execute("""
+				UPDATE Tweethistory
+				SET LastUsed = %s
+				WHERE UserID = %s
+				""", (time, int(ID)))
+			self.db.commit()
+			return " User Updated!"
+		except:
+			return "Problem occurred!" 
 
 
 	def add_label(self, ID, handle, label):
 		self.cursor.execute("""
-			INSERT INTO Tags
-			VALUES (%d, %s, %s)
+			INSERT INTO Tags (UserID, Handle, Tag)
+			VALUES (%s, %s, %s)
 			""", (ID, handle, label))
 		self.db.commit()
 
 	def check_user(self, ID):
 		self.cursor.execute("""
 			SELECT 1
-			FROM Images
-			WHERE UserID = %d
-			"""%(ID))
+			FROM Tweethistory
+			WHERE UserID = %s
+			""",(ID,))
 		if self.cursor.fetchone() == None:
 			return False
 		else:
