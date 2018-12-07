@@ -1,11 +1,10 @@
 import tweetscanner
 import make_video
 import analysis
-from Database import MyDatabase
+import mongo_db as db
 from time import gmtime, strftime
 
 def main():
-	db = MyDatabase()
 	images = 0
 	handle = ''
 	time = strftime("%Y-%m-%d %H:%M:%S", gmtime())
@@ -21,31 +20,36 @@ def main():
 	if (choice == 1):
 		ID = int(input("Enter your ID: "))
 		check = db.check_user(ID)
-		if (check == False):
+		if (check == 0):
 			print("Wrong ID, Please try again!")
-			db.close_connection()
 			main()
 		else:
-			print(db.update_user(ID, time))
+			pass
 	elif (choice == 2):
 		ID = int(db.add_user(time))
 		print("Your ID is {}".format(ID)) #Create new database entry
 	else:
 		print("Wrong choice, please try again!")
-		db.close_connection()
 		main()
 
 	handle = input("Enter the twitter handle: ")
 	#calling tweetscanner to get tweets
-	tweetscanner.get_all_tweets(handle, ID)
+	images = tweetscanner.get_all_tweets(handle, ID)
 	print("Images downloaded. Converting to video..")
 	#calling make video to generate video from images
 	make_video.create_video(handle)
 	print("Analysing video..")
 	path = handle + ".mp4"
-	analysis.analyse_video(path, ID, handle)
+	Tags = analysis.analyse_video(path, ID, handle)
 	#closing notes
-	db.close_connection()
+	data = {'Tags': Tags,
+			'Handle': handle,
+			'Images': images}
+	if choice == 1:
+		db.add_usage(ID, data)
+	elif choice == 2:
+		db.update_user(ID, time, data)
+
 	print("Thanks for using our application!")
 
 if __name__ == '__main__':
