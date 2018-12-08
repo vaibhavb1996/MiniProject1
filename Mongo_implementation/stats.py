@@ -42,7 +42,7 @@ while choice is not 5:
 	print("4. Avg no. of images per session")
 	print("5. Exit\n")
 
-	choice = input("Enter your choice: ")
+	choice = int(input("Enter your choice: "))
 	if choice is 1:
 		ID = input("Enter User ID")
 		get_all_data(ID)
