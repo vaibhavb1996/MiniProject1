@@ -31,7 +31,7 @@ def avg_images():
 	for x in Tweethistory.find({}, {'_id':0, 'LastUsed':0}):
 		for mydict in enumerate(x.get('usage')):
 			add += mydict.get('images')
-	print("The average is {}"%(add / Tweethistory.find({}, {'_id':0, 'LastUsed':0}).count()))
+	print("The average is {}".format(add / Tweethistory.find({}, {'_id':0, 'LastUsed':0}).count()))
 
 choice = 0
 while choice is not 5:
