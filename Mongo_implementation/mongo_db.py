@@ -50,6 +50,12 @@ def add_user(LastUsed):
 	z = Tweethistory.insert_one(mydict)
 	return z.inserted_id
 
+def add_usage(ID, session):
+	myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+	myDB = myclient['myDatabase']
+	Tweethistory = myDB['Tweethistory']
+	z = Tweethistory.update({'_id': ID}, {'$set':{'usage': session}})
+
 def update_user(ID, LastUsed, session):
 	myclient = pymongo.MongoClient("mongodb://localhost:27017/")
 	myDB = myclient['myDatabase']
