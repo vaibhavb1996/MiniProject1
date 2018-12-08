@@ -42,11 +42,10 @@ def main():
 	path = handle + ".mp4"
 	Tags = analysis.analyse_video(path, ID, handle)
 	#closing notes
-	data = {
-			'Tags': Tags,
+	data = {'Tags': Tags,
 			'Handle': handle,
 			'Images': images
-		   }
+			}
 	if choice == 1:
 		db.add_usage(ID, data)
 	elif choice == 2:
