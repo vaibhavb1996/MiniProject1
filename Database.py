@@ -26,6 +26,56 @@ class MyDatabase():
 	# 		SELECT * FROM Tweethistory""")
 	# 	return self.cursor.lastrowid
 
+	def get_all_data(self, ID):
+		self.cursor.execute("""
+			SELECT * FROM Tweethistory""")
+		result0 = self.cursor.fetchall()
+		for x in result:
+			print(x)
+		self.cursor.execute("""
+			SELECT * FROM Images""")
+		result1 = self.cursor.fetchall()
+		for x in result:
+			print(x)
+		self.cursor.execute("""
+			SELECT * FROM Tags""")
+		result2 = self.cursor.fetchall()
+		for x in result:
+			print(x)
+
+	def get_all_handles(self):
+		self.cursor.execute("""
+			SELECT * FROM Tags""")
+		result = self.cursor.fetchall()
+		handles = []
+		for x in result:
+			if x[1] in handles:
+				pass
+			else:
+				handles.append(x[2])
+		print(handles)
+
+	def get_all_tags(self):
+		self.cursor.execute("""
+			SELECT * FROM Tags""")
+		result = self.cursor.fetchall()
+		tags = []
+		for x in result:
+			if x[2] in tags:
+				pass
+			else:
+				tags.append(x[2])
+		print(tags)
+
+	def avg_images(self):
+		self.cursor.execute("""
+			SELECT * FROM Images""")
+		result = self.cursor.fetchall()
+		images = 0
+		for x in result:
+			images += x[2]
+		print("Avg images per session: {}".format(images/len(result)))
+
 	def add_user(self, time):
 		self.cursor.execute("""
 			INSERT INTO Tweethistory (LastUsed)
